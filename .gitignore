@@ -1,29 +1,29 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+# IntelliJ IDEA
+.idea/                # Ignore the whole .idea folder
+*.iml                 # Ignore all .iml project files
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+# Build output
+out/                  # IntelliJ build folder
+build/                # Gradle build folder
+target/               # Maven build folder
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# Compiled classes
+*.class
 
-### VS Code ###
-.vscode/
+# Logs
+*.log
 
-### Mac OS ###
+# Package archives
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# VM crash logs
+hs_err_pid*
+
+# OS-specific
 .DS_Store
+Thumbs.db
