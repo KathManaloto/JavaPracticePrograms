@@ -56,7 +56,6 @@ public class KilometersToMiles {
                 input.nextLine(); // clear wrong input
             }
         }
-
         input.close();
     }
 }
