@@ -1,5 +1,5 @@
 //This is a temperature converter program. 
-package converter;
+package converter.temperature;
 
 import java.util.Scanner;
 
