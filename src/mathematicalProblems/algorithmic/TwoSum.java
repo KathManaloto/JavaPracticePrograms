@@ -1,5 +1,5 @@
 //This program finds two numbers in an array whose sum equals a specified target.
-package algorithmic;
+package mathematicalProblems.algorithmic;
 
 public class TwoSum {
 
