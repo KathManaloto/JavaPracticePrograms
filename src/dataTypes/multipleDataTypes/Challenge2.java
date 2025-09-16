@@ -6,11 +6,11 @@ Otherwise, it will print "Wrong answer".
 
 n can range between -100 to 100 inclusive.
  */
-package dataTypes;
+package dataTypes.multipleDataTypes;
 
 import java.util.Scanner;
 
-public class Challenge3 {
+public class Challenge2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

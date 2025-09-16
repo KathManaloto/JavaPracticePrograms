@@ -15,11 +15,11 @@
     Print the substring in the inclusive range from start to end -1 .
 
  */
-package dataTypes;
+package dataTypes.strings;
 
 import java.util.Scanner;
 
-public class Challenge5 {
+public class Challenge2 {
 
     public static void main(String[] args) {
 

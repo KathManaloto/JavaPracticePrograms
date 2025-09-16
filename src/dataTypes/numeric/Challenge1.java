@@ -19,11 +19,11 @@
     If the number cannot be stored in one of the four aforementioned primitives, print the line:
         n can't be fitted anywhere.
  */
-package dataTypes;
+package dataTypes.numeric;
 
 import java.util.Scanner;
 
-public class Challenge2 {
+public class Challenge1 {
 
     public static void main(String[] args) {
 

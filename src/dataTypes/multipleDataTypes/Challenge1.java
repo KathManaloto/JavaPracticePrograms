@@ -12,7 +12,7 @@
     On the second line, print Double: followed by the unaltered double read from stdin.
     On the third line, print Int: followed by the unaltered integer read from stdin.
  */
-package dataTypes;
+package dataTypes.multipleDataTypes;
 
 import java.util.Scanner;
 

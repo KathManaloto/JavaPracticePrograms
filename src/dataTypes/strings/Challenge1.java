@@ -17,11 +17,11 @@
     For the third line, capitalize the first letter in both A and B and print them on a single line,
         separated by a space.
  */
-package dataTypes;
+package dataTypes.strings;
 
 import java.util.Scanner;
 
-public class Challenge4 {
+public class Challenge1 {
 
     public static void main(String[] args) {
 
