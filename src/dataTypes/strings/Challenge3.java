@@ -44,7 +44,6 @@ public class Challenge3 {
         return smallest + "\n" + largest;
     }
 
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.next();
