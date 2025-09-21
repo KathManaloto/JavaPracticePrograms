@@ -30,7 +30,9 @@ public class Challenge5 {
 
         String[] tokens = s.trim().split("[^a-zA-Z]+");
 
-        if (tokens.length == 1 && tokens[0].isEmpty()) System.out.println(0);
+        if (tokens.length == 1 && tokens[0].isEmpty()){
+            System.out.println(0);
+        }
         else {
             System.out.println(tokens.length);
             for (String token : tokens) {
