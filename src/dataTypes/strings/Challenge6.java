@@ -17,7 +17,11 @@ public class Challenge6 {
         sb.append(A);
         String reverse = sb.reverse().toString();
 
-        if(A.equals(reverse)) System.out.println("Yes");
-        else System.out.println("No");
+        if(A.equals(reverse)){
+            System.out.println("Yes");
+        }
+        else{
+            System.out.println("No");
+        }
     }
 }
