@@ -34,6 +34,9 @@ public class Challenge1 {
 
             try {
                 long x = sc.nextLong();
+
+                sc.close();
+                
                 System.out.println( x + " can be fitted in: ");
 
                 if((x >= Byte.MIN_VALUE) && (x <= Byte.MAX_VALUE)) {

@@ -32,6 +32,8 @@ public class Challenge1 {
         System.out.print("Input string: ");
         String s = scan.nextLine();
 
+        scan.close();
+        
         System.out.println("\nResults: ");
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
