@@ -23,6 +23,7 @@ public class Challenge1 {
         System.out.print("Input an integer: ");
         int n = input.nextInt();
 
+        input.close();
         if(n<1 || n>100){
             System.out.println("Input integers within 1 - 100 only.");
         } else{
