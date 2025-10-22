@@ -60,6 +60,8 @@ public class TemperatureConverter {
                 System.out.println("Converted temperature: " + convertedTemp + " degrees Fahrenheit");
                 break;
         }
+
+        sc.close();
     }
 
     static void message(String input, String output){
