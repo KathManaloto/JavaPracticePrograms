@@ -29,7 +29,8 @@ public class Challenge1 {
             int x = input.nextInt();
             System.out.printf("%-15s%03d%n",s1,x);
         }
-
+        input.close();
+        
         System.out.println("================================");
     }
 }
