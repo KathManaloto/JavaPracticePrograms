@@ -18,6 +18,8 @@ public class Challenge1 {
         } else {
             flag = true;
         }
+
+        sc.close();
     }
 
     public static void main(String[] args) {
