@@ -25,9 +25,11 @@ public class Challenge1 {
 
     public static void main(String[] args) {
 
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         String A = sc.next();
         String B = sc.next();
+
+        sc.close();
 
         int sum = A.length() + B.length();
         System.out.println(sum);
