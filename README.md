@@ -20,3 +20,7 @@ The repository includes:
 - Improve **problem-solving and algorithmic thinking**
 - Apply concepts like OOP, recursion, and data structures
 - Build a personal reference of coding exercises  
+
+## Resources
+- https://codingbat.com/
+- https://www.hackerrank.com/
