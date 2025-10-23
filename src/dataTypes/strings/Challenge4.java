@@ -19,7 +19,6 @@
         Strings a and b consist of English alphabetic characters.
         The comparison should NOT be case-sensitive.
  */
-
 package dataTypes.strings;
 
 import java.util.Arrays;
