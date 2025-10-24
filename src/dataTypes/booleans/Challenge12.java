@@ -6,6 +6,7 @@
     in3050(30, 41) → false
     in3050(40, 50) → true
 */
+package dataTypes.booleans;
 
 public class Challenge12{
 
