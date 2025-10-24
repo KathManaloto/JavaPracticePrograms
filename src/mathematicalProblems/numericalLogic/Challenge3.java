@@ -8,6 +8,7 @@
     close10(13, 8) → 8
     close10(13, 7) → 0
 */
+package mathematicalProblems.numericalLogic;
 
 public class Challenge3{
 

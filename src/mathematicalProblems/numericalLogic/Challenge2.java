@@ -7,6 +7,7 @@
     nearHundred(90) → true
     nearHundred(89) → false
 */
+package mathematicalProblems.numericalLogic;
 
 public class Challenge2{
 

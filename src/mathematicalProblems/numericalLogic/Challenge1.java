@@ -7,6 +7,8 @@
     diff21(10) → 11
     diff21(21) → 0
 */
+package mathematicalProblems.numericalLogic;
+
 public class Challenge1 {
     
     public int diff21(int n){

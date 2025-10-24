@@ -7,6 +7,7 @@
     sumDouble(3, 2) → 5
     sumDouble(2, 2) → 8
 */
+package mathematicalProblems.numericalLogic;
 
 public class Challenge5{
 
