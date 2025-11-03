@@ -20,7 +20,7 @@ public class Challenge18 {
 
         Challenge18 ch = new Challenge18();
 
-        System.out.println(ch.has23(new int[]{2, 5}));
+        System.out.println(ch.has23(new int[]{2, 5})); 
         System.out.println(ch.has23(new int[]{4, 3}));
         System.out.println(ch.has23(new int[]{4, 5}));
     }
