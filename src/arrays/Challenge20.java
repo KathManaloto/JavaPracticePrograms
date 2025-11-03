@@ -17,13 +17,21 @@ public class Challenge20 {
  
     public int[] makeLast(int[] nums){
 
+        // int[] newNums = new int[nums.length * 2];
+
+        // for(int i = 0; i < (nums.length * 2)  ; i++){
+        //     newNums[i] = 0;
+        // }
+
+        // newNums[newNums.length - 1] = nums[nums.length-1];
+
+        // return newNums;
+
+        //OR
+
         int[] newNums = new int[nums.length * 2];
 
-        for(int i = 0; i < (nums.length * 2)  ; i++){
-            newNums[i] = 0;
-        }
-
-        newNums[newNums.length - 1] = nums[nums.length-1];
+        newNums[newNums.length - 1] = nums[nums.length - 1];
 
         return newNums;
     }
