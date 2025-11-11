@@ -8,6 +8,8 @@
     withoutDoubles(3, 3, true) → 7
     withoutDoubles(3, 3, false) → 6
  */
+package dataTypes.numeric;
+
 public class Challenge5 {
     
     public int withoutDoubles(int a, int b, boolean noDoubles){
