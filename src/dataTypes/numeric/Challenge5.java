@@ -12,17 +12,29 @@ public class Challenge5 {
     
     public int withoutDoubles(int a, int b, boolean noDoubles){
 
-        if(noDoubles){
+        // if(noDoubles){
 
-            if(a == 6 && b ==6){
-                return 6 + 1;
-            } else if(a == b){
-                b += 1;
-                return a + b;
-            }
+        //     if(a == 6 && b ==6){
+        //         return 6 + 1;
+        //     } else if(a == b){
+        //         b += 1;
+        //         return a + b;
+        //     }
     
+        // } 
+        //     return a + b;
+
+        //OR
+
+        if(noDoubles && a == b){
+            if(b == 6){
+                b = 1;
+            } else{
+                b += 1;
+            }
         } 
-            return a + b;
+
+        return a + b;
         
     }
 
